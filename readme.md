@@ -2,6 +2,10 @@
 
 Smokem is a simple flexible program for using an M5Paper device to control an electric smoker (or any other cooking device that has a simple on/off heating element)
 
+## Disclaimer
+
+Wiring something that can burn your house down to an IoT device is a stupid idea. I am not responsible. Especially not if you do something stupid like burn your house down. But also in general. I AM NOT RESPONSIBLE!
+
 ## Bill of Materials
 
 - [M5Paper](https://shop.m5stack.com/products/m5paper-esp32-development-kit-960x540-4-7-eink-display-235-ppi?variant=37595977908396)
